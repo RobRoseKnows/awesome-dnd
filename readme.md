@@ -12,6 +12,8 @@ warranted.
 - [Spellbooks](#spellbooks)
 - [Generators](#generators)
 - [Dice Rollers](#dice-rollers)
+- [Forums](#forums)
+- [Homebrew](#homebrew)
 
 
 ## Character Sheets
@@ -31,6 +33,8 @@ Please mark if something is iOS, Android or cross-platform!
 - [MorePurpleMoreBetter PDF](https://www.patreon.com/morepurplemorebetter/posts) [:octocat:](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet) - A PDF character sheet that autofills stats for you.
 
 ## Spellbooks
+
+There's many spellbook apps out there, I thought a dedicated list was warranted.
 
 ### Web
 
@@ -64,10 +68,32 @@ They see me rolling, they playing.
 
 ### Mobile
 
+Please mark if something is iOS, Android or cross-platform!
+
+## Forums
+
+### Traditional Forums
+
+- 
+
+### Subreddits
+
+- [/r/DnD](https://www.reddit.com/r/DnD) - 
+- [/r/UnearthedArcana](https://www.reddit.com/r/UnearthedArcana/) - Homebrew material and assistance
+
+## Homebrew
+
+- [Homebrewery](https://homebrewery.naturalcrit.com/) [:octocat:](https://github.com/naturalcrit/homebrewery) - Make WOTC
+style PDFs using Markdown.
+- [GMBinder](https://www.gmbinder.com/) - Tool similar to Homebrewery to make and save documents using Markdown.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
+Please note that before adding something you created, please ensure that you're prepared to maintain it. I don't
+want this list to just become a list of abandonware character-sheet apps people have created, so I'll periodically
+cull any app or service that looks abandoned. This rule doesn't apply to any free software projects.
 
 ## License
 
