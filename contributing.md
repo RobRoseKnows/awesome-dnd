@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Make sure it isn't already on the list.
+- And that you added it in the correct category (or created a new one).
+- And ensure you don't modify someone else's entry.
 
 Thank you for your suggestions!
 
