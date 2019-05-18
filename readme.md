@@ -74,11 +74,17 @@ Please mark if something is iOS, Android or cross-platform!
 
 ### Traditional Forums
 
-- 
+- [Enworld](http://www.enworld.org/) - Forum for D&D and other RPGs. Lots of build guides.
+- [Giant in the Playground](http://www.giantitp.com/forums/forum.php) - Forum for a webcomic, but has many D&D related subjects.
+
+### Q&A Boards
+
+- [RPG StackExchange](https://rpg.stackexchange.com/) - Stack Exchange site for questions about RPGs.
+- [Worldbuilding StackExchange](https://worldbuilding.stackexchange.com/) - Stack Exchange site for questions about worldbuilding. Tangentially related to D&D.
 
 ### Subreddits
 
-- [/r/DnD](https://www.reddit.com/r/DnD) - 
+- [/r/DnD](https://www.reddit.com/r/DnD) - Subreddit just for D&D.
 - [/r/UnearthedArcana](https://www.reddit.com/r/UnearthedArcana/) - Homebrew material and assistance
 
 ## Homebrew
