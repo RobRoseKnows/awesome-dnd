@@ -56,6 +56,8 @@ For generating NPCs, towns, etc.
 
 ### Names/NPCs
 
+- [RandomGeneratr NPC Generator](https://randomgeneratr.com/npc-generator) - Generate NPC cards with names, roles, motives, flaws, secrets, factions and story hooks for tabletop preparation.
+
 ### Places
 
 ## Dice Rollers
